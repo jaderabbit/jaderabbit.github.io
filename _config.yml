@@ -2,4 +2,4 @@ title: Jade Abbott's Blog
 description: NLP things
 show_downloads: true
 google_analytics:
-remote_theme: poole/hyde
+remote_theme: fongandrew/hydeout
