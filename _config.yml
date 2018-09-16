@@ -3,3 +3,5 @@ description: NLP things
 show_downloads: true
 google_analytics:
 remote_theme: fongandrew/hydeout
+disqus:
+  shortname: jabbott
