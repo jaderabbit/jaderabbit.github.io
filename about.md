@@ -34,4 +34,7 @@ I like sharing info, so often try out stupid tech things and talk about them:
 - [How to even process natural language ~ 2016](https://www.youtube.com/watch?v=Gzt4Nkpr6hs)
 
 
+## Other places
 
+- Github: [jaderabbit](https://github.com/jaderabbit)
+- twitter: [@alienelf](https://twitter.com/alienelf)
