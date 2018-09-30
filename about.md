@@ -14,7 +14,7 @@ My passions are:
 - Natural Language Processing
 - Music (I make bass noises for [Follow Me Follow You](http://fmfy.bandcamp.com))
 
-I consider myself a polyglot and obsessively learn about new shiny things and try figure out what's wrong with them. My current fave languages are golang and python.
+I consider myself a polyglot and obsessively learn about new shiny things and try figure out what's wrong with them. My current fave languages are golang and python. I like to comment about people's misuse of technology they think is cool, but really is useless.
 
 
 ## This Blog
@@ -37,4 +37,4 @@ I like sharing info, so often try out stupid tech things and talk about them:
 ## Other places
 
 - Github: [jaderabbit](https://github.com/jaderabbit)
-- twitter: [@alienelf](https://twitter.com/alienelf)
+- Twitter: [@alienelf](https://twitter.com/alienelf)
