@@ -3,6 +3,7 @@ layout: post
 title: Hello This is a test
 excerpt_separator:  <!--more-->
 comments: true
+sidebar_link: true
 ---
 ###
 
