@@ -33,6 +33,16 @@ I like sharing info, so often try out stupid tech things and talk about them:
 - [Deep Dreams of Electric Sheep ~ 2017](https://www.youtube.com/watch?v=bbXMsDOyQfU)
 - [How to even process natural language ~ 2016](https://www.youtube.com/watch?v=Gzt4Nkpr6hs)
 
+## Publications
+
+I've had quite a back-and-forth journey with research, trying to learn what excites me most. It has Here are a couple of my assorted published works. Expect many more on the way :)
+
+
+
+- [Towards Machine Translation for African Languages - ML4D Workshop - NeurIPS 2018](https://arxiv.org/abs/1811.05467)
+- [Nature-inspired Swarm Robotics Algorithms for Prioritized Foraging - ANTS 2014](https://link.springer.com/chapter/10.1007/978-3-319-09952-1_23)
+- [The Performance of Bacterial Foraging in Dynamic Environments - ANTS 2012](https://link.springer.com/chapter/10.1007/978-3-642-32650-9_29)
+
 
 ## Other places
 
