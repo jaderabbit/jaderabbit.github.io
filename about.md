@@ -23,6 +23,11 @@ I decided to start this blog, because as much as I love Medium as a platform for
 
 Until I've ported all my posts, you might want to check out my [Medium](https://medium.com/@alienelf).
 
+## Interviews
+
+
+- [Forbes - AI Innovators meet 2 Women Transforming the AI Ecosystem in Africa](https://www.forbes.com/sites/nvidia/2019/02/27/ai-innovators-meet-2-women-transforming-the-ai-ecosystem-in-africa/#67f72b7d2f35) 
+
 ## Talks
 
 I like sharing info, so often try out stupid tech things and talk about them:
