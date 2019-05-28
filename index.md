@@ -34,7 +34,9 @@ Until I've ported all my posts, you might want to check out my [Medium](https://
 
 I like sharing info, so often try out stupid tech things and talk about them:
 
-- [Machine Learning in Real Life ~ 2018](https://za.pycon.org/talks/23-machine-learning-in-real-life/)
+- [Machine Learning in Real Life ~ IndabaX 2019](https://youtu.be/ZDVrQ3AoZ08)
+- [Cloud Shootout! ~ DevConf 2019](https://youtu.be/2NbwlUzEDLA)
+- [Machine Learning in Real Life ~ PyCon 2018](https://za.pycon.org/talks/23-machine-learning-in-real-life/)
 - [How to Build an Artificial John Lennon ~ 2018](https://www.youtube.com/watch?v=eHkW-w2wOhA&t=607s)
 - [How to train an AI to generate Album Covers ~ 2018](https://www.youtube.com/watch?v=uul7rir4X1k)
 - [Deep Dreams of Electric Sheep ~ 2017](https://www.youtube.com/watch?v=bbXMsDOyQfU)
