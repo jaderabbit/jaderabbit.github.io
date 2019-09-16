@@ -40,7 +40,8 @@ Until I've ported all my posts, you might want to check out my [Medium](https://
 
 ## Talks
 
-I like sharing info, so often try out stupid tech things and talk about them:
+I like sharing info, so often try out stupid tech things and talk about them. Here are a few of them:
+- [ML's Hidden Tasks: A Checklist for Developers When Building ML Systems ~ Upcoming ~ QCon SF - November 2019](https://qconsf.com/sf2019/presentation/mls-hidden-tasks-checklist-developers-when-build)
 - [A Focus on Neural Machine Translation for African Languages](https://sites.google.com/view/nlpdlindaba)
 - [Machine Learning in Real Life ~ IndabaX 2019](https://youtu.be/ZDVrQ3AoZ08)
 - [Cloud Shootout! ~ DevConf 2019](https://youtu.be/2NbwlUzEDLA)
