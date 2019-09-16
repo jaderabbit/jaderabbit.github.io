@@ -26,6 +26,12 @@ I decided to start this blog, because as much as I love Medium as a platform for
 
 Until I've ported all my posts, you might want to check out my [Medium](https://medium.com/@alienelf).
 
+## Other accounts
+
+- Twitter: [@alienelf](https://twitter.com/alienelf) - I'm super active on Twitter, so generally, this is the best place to get hold of me
+- Github: [jaderabbit](https://github.com/jaderabbit)
+
+
 ## Interviews
 
 
@@ -35,7 +41,7 @@ Until I've ported all my posts, you might want to check out my [Medium](https://
 ## Talks
 
 I like sharing info, so often try out stupid tech things and talk about them:
-
+- [A Focus on Neural Machine Translation for African Languages](https://sites.google.com/view/nlpdlindaba)
 - [Machine Learning in Real Life ~ IndabaX 2019](https://youtu.be/ZDVrQ3AoZ08)
 - [Cloud Shootout! ~ DevConf 2019](https://youtu.be/2NbwlUzEDLA)
 - [Machine Learning in Real Life ~ PyCon 2018](https://za.pycon.org/talks/23-machine-learning-in-real-life/)
@@ -49,14 +55,10 @@ I like sharing info, so often try out stupid tech things and talk about them:
 I've had quite a back-and-forth journey with research, trying to learn what excites me most. Here are a couple of my assorted published works. Expect many more on the way :)
 
 
-
 - [Benchmarking Neural Machine Translation for Southern African Languages - WiNLP Workshop - ACL 2019](https://www.aclweb.org/anthology/papers/W/W19/W19-3632/)
 - [Towards Machine Translation for African Languages - ML4D Workshop - NeurIPS 2018](https://arxiv.org/abs/1811.05467)
 - [Nature-inspired Swarm Robotics Algorithms for Prioritized Foraging - ANTS 2014](https://link.springer.com/chapter/10.1007/978-3-319-09952-1_23)
 - [The Performance of Bacterial Foraging in Dynamic Environments - ANTS 2012](https://link.springer.com/chapter/10.1007/978-3-642-32650-9_29)
 
 
-## Other places
 
-- Github: [jaderabbit](https://github.com/jaderabbit)
-- Twitter: [@alienelf](https://twitter.com/alienelf)
