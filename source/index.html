@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <div class="hero-inner">
+    <div class="container">
+      <img src="{{ site.author.thumb | prepend: site.baseurl }}" alt="author thumb" class="dot">
+      <h1>Hi there!</h1>
+      <h3><strong itemprop="name">I'm {{ site.author.name }}, {{ site.author.job }}</strong>.</h3>
+      <h3><strong>Putting ML into Prod @ <a href="https://retrorabbit.co.za">Retro Rabbit</a></strong>.</h3>
+      <h3><strong>NLP Researcher for African Languages @ <strong><a href="https://masakhane.io">Masakhane</a></strong></h3>
+      <h3><strong></strong>Bassist @ <a href="https://fmfy.bandcamp.com">Follow Me Follow You</a></strong></h3>
+      <a href="{{ '/about' | prepend: site.baseurl }}" class="button button-ghost" title="about">whoami();</a>
+      <a href="{{ '/blog' | prepend: site.baseurl }}" class="button button-ghost" title="blog">read();</a>
+      <a href="{{ '/talks' | prepend: site.baseurl }}" class="button button-ghost" title="talk">watch();</a>
+      <a href="{{ '/research' | prepend: site.baseurl }}" class="button button-ghost" title="research">research();</a>
+      <a href="http://fmfy.bandcamp.com" class="button button-ghost" title="music">listen()</a>
+      {% include social.html %}
+    </div>
+  </div>
+</section>

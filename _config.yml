@@ -1,7 +1,56 @@
-title: Jade Abbott's Blog
-description: NLP things
-show_downloads: true
-google_analytics:
-remote_theme: fongandrew/hydeout
-disqus:
-  shortname: jabbott
+# Build settings
+permalink: /blog/:year/:title/
+markdown: kramdown
+highlighter: pygments
+plugins: [jekyll-paginate-v2]
+
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: "/page/:num/"
+
+comments: true
+
+source: source
+destination: _site
+sass:
+  sass_dir: _sass
+  style: compressed # expanded
+
+# SEO settings
+title: Jade Abbott
+description: "Jade Abbott, NLP Engineer by day, ML Engineer by Night"
+keywords: "Jade Abbott, NLP, African Languages, Masakhane"
+url: http://jabbott.io
+baseurl: ""
+
+google_analytics: UA-52446115-1
+repo: http://github.com/nandomoreirame/end2end
+disqus_shortname: "nandothemes"
+disqus_site_shortname: "nandothemes"
+
+# Author settings
+author:
+  name: Jade Abbott
+  job: NLP Engineer by Night, NLP Research by Night
+  bio: "Putting ML into Prod @ Retro Rabbit. NLP for African Languages @ Masakhane. Bassist @ FMFY"
+  thumb: /images/me.jpg
+  email: jade.zoe.abbott@gmail.com
+  url: https://jabbott.io
+  github: https://github.com/jaderabbit
+  twitter: https://twitter.com/alienelf
+  linkedin: https://www.linkedin.com/in/jade-abbott-5b3a692a/
+
+# navbar pages
+navbar:
+  - slug: about
+    title: whoami();
+  - slug: blog
+    title: read();
+  - slug: talks
+    title: watch();
+  - slug: research
+    title: research();
+
+
+exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
