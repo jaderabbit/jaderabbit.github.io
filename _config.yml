@@ -21,11 +21,11 @@ sass:
 title: Jade Abbott
 description: "Jade Abbott, NLP Engineer by day, ML Engineer by Night"
 keywords: "Jade Abbott, NLP, African Languages, Masakhane"
-url: http://jabbott.io
+url: https://jabbott.io
 baseurl: ""
 
 google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
+repo: https://github.com/jaderabbit/jaderabbit.github.io
 disqus_shortname: "nandothemes"
 disqus_site_shortname: "nandothemes"
 
