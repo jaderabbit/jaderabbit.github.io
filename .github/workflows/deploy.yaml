@@ -1,6 +1,11 @@
 
 name: GitHub Pages
 
+on:
+  push:
+    branches:
+      - source
+
 jobs:
   deploy:
     runs-on: ubuntu-18.04
