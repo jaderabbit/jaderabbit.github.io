@@ -18,3 +18,4 @@ jobs:
           publish_dir: ./_site
           allow_empty_commit: true
           enable_jekyll: false
+          cname: jabbott.io
