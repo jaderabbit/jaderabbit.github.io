@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="/js/game-of-life-v3.1.1.js"></script>
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Thinking about 'Bite-sized Mentorship' in ML Research</title>
+<meta name="description" content="Education in Machine Learning in Africa">
+
+<link rel="stylesheet" href="/css/main.css">
+<link rel="canonical" href="http://localhost:4000/blog/2020/bitesized-mentorship/">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52446115-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+</head>
+<body>
+  <div>
+    <canvas id="canvas" width="901" height="433"></canvas>
+  </div>
+  <header class="site-header">
+  <div class="container">
+    <input type="checkbox" id="toggleNavbar">
+    <h1 class="logo"><a href="/">Jade<span>Abbott</span></a></h1>
+    <label for="toggleNavbar" role="button" class="toggle-navbar-button">
+      <i class="icon icon-menu"></i>
+      <i class="icon icon-cross"></i>
+    </label>
+    <nav class="navbar">
+      <ul>
+        <li><a href="/" title="Home">127.0.0.1</a></li>
+        
+          <li><a href="/about" title="whoami();">whoami();</a></li>
+        
+          <li><a href="/blog" title="read();">read();</a></li>
+        
+          <li><a href="/talks" title="watch();">watch();</a></li>
+        
+          <li><a href="/research" title="research();">research();</a></li>
+        
+      </ul>
+    </nav>
+  </div>
+</header>
+
+
+<main class="main-container">
+  <div class="container">
+    <article role="article" class="post">
+
+  <div class="card">
+    <header class="post-header">
+      <h1 class="post-title">Thinking about 'Bite-sized Mentorship' in ML Research</h1>
+      <em class="post-meta">
+        <time>Apr 29, 2020</time>
+      </em>
+    </header>
+
+    <div class="post-content">
+      
+        <figure class="post-thumbnail ">
+          <img src="/images/africafabric.jpeg" alt="Thinking about 'Bite-sized Mentorship' in ML Research">
+        </figure>
+      
+      <h3 id="education-in-machine-learning-inafrica">Education in Machine Learning in Africa</h3>
+
+<p>In the Machine Learning field in Africa, amazing initiatives, such as the <a href="https://deeplearningindaba.com/2020/">Deep Learning Indaba</a>, <a href="https://www.datasciencenigeria.org/">Data Science Nigeria</a>, and <a href="http://wimlds.org/nairobi-kenya-team/">Women in Machine Learning</a>, have been building up a strong base of junior machine learning practitioners. They’ve largely done so by running formal and informal lectures, classes and conferences. These initiatives have been extremely successful, spurring on a number of other initiatives across the continent, resulting in budding communities of community-led junior ML practitioners. These entry-level ML practitioners have done introductory courses, worked through the mathematics, and completed a few competitive data science challenges (<a href="https://www.kaggle.com/">Kaggle</a>, <a href="https://zindi.africa/">Zindi</a>), while not formally going through training in University settings.</p>
+
+<p>And this success is immense! But the question remains, what are the next steps?</p>
+
+<p>In my experience at work, in <a href="https://masakhane.io">Masakhane</a> (a community of African NLP researchers) and elsewhere, <strong>mentorship</strong> has facilitated the most rapid growth in individuals - both personally being mentored, from people I’ve mentored or observed being mentored. It has allowed members of the community to move from ingesting existing knowledge, to guidance on how to contribute novel research and eventually publish papers. Unlike lectures which are focused on technical topics, mentorship captures “institutional” knowledge of how to write papers, avoid common mistakes, how to not get demotivated in research, and guides the research process. Unfortunately, we simply lack the required number of experienced ML supervisors in Africa, as well as have very low access to tertiary education in the first place.</p>
+
+<h3 id="traditional-mentorship-doesntscale">Traditional Mentorship doesn’t scale</h3>
+
+<p>The problem is, unlike conferences or lectures, the traditional formal mentorship model does not work at scale. Lecturing, classes and conferences are useful because they work at scale. One person with knowledge can “release” knowledge on many others. And adding a few extra people to the equation does not impact the delivery of the lecture.</p>
+
+<p>Conversely, formal mentorship is a long-term commitment between two individuals which often takes a high time and energy commitment from both the mentor and the mentee to maintain. Having been asked to be a mentor for individuals, despite my deep desire to help, my anxiety spikes at the thought of having to dedicate even more of my day to mentorship activities and inevitably I turn the request down. Having someone rely on me, when I have so many commitments is something I cant bare! I know this sentiment has been shared throughout many other people in research and non-research communities. The fact remains, that few people have capacity to maintain one-on-one mentorship relationships. To complicate matters, individual personalities and intrinsic motivation play a big-part in having a successful formalized mentorship relationship.</p>
+
+<p>Given we have so many junior ML practitioners on the continent, little accessibility to more formal relationships such as supervisors, we need to rethink the mentorship model.</p>
+
+<h3 id="rethinking-mentorship">Rethinking Mentorship</h3>
+
+<p>The above led me to think about my own journey. I’ve rarely had someone who was formally assigned as my mentor, and actually fulfilled that role. But on the other hand, I have however been mentored EXTENSIVELY by MANY people. But if not by formal mentors, then by whom, and how did this happen? My informal mentorship, on reflection, has taken many forms:</p>
+
+<ul>
+  <li><strong>Peer/Community mentorship</strong>. For me, this is the opening up and sharing struggles or roadblocks with friends, and building up communities of people I trusted. Even if they couldn’t solve the problems, the groups of individuals were always committed to brainstorming ideas, or would refer to trusted individuals. Even if no one has the answers, figuring things out together has yielded amazing results.</li>
+  <li><strong>Asking questions to broad audiences</strong>. For me, this has been twitter and big slack groups. I regularly take the risk of sounding VERY dumb, but in doing so have opened up opportunities for individuals who do care enough, to respond. AND THEY ALWAYS DO! If people don’t know themselves, they’ll often share your question. You’ll get so many viewpoints from so many people! Pre-facing things with “I’m very new to this so this might be a stupid question, so apologies, but…” I believe has resulted in kind responses</li>
+  <li><strong>Asking ad-hoc but VERY SPECIFIC questions to individuals</strong>. Sometimes I’m interested in a very specific answer to something. For example: “I find -insert technique here- confusing. Could you recommend me the best resource you’ve come across at explaining this concept?”. Or “I have no idea where to start on this issue, can I have 15 minutes if your time to get me started?”. Or even “I feel very demotivated, how did you get through this?”. It’s small and bite-sized and requires as little overhead on the individual you’re asking as possible.</li>
+  <li><strong>Requesting feedback on output</strong>. If I have an idea, or a paper or a blog I’ve written, I ask individuals for feedback. It’s always easier to respond to an idea, than to come up with it from scratch so people sometimes don’t mind quickly reviewing something. If they don’t have time, then I make it clear that there is no commitment to do so.</li>
+  <li><strong>Mentorship via collaboration</strong>. I’ve seen a number of fantastic ML individuals, who might never have supervised a student before, who have started working on small papers with beginner researchers. Working on something together means the individual goals are well-aligned and everyone benefits. Initiatives such as for.ai allow for this type of distributed collaborative research.</li>
+</ul>
+
+<p>I believe some of the reason these strategies work is because:</p>
+<ul>
+  <li>They break the mentorship process into smaller chunks bite-sized for mentors so it didn’t feel like an ongoing burden or pressure.</li>
+  <li>They allow for many-to-many mentor-to-mentee relationships, and facilitated redundancy. When one specific person isn’t available, someone else with experience is. Trust in a community is more robust than trust in an individual.</li>
+  <li>They facilitate aligned priorities.</li>
+</ul>
+
+<p>I dub this group of techniques “Bite-sized” mentorship. My hypothesis is that these ideas could be a more scalable approach to mentoring budding researchers on the African continent (and perhaps elsewhere). I also believe that this style of mentorship is the most sustainable.</p>
+
+<h3 id="so-what-are-those-nextsteps">So what are those “next steps”?</h3>
+
+<p>If you’re someone seeking a mentor, but struggling to find someone, I encourage you to try the follow:</p>
+<ul>
+  <li>To seek out or slowly build communities of people who care about the same things as you. This will enable peer mentorship and mentorship via collaboration.</li>
+  <li>Learn how to ask good specific questions. This makes it much easier for a mentor to reply.</li>
+  <li>Be brave and pro-active in your approach to getting mentored. Ask questions that seem dumb - everyone was in your shoes at some stage.</li>
+</ul>
+
+<p>If you’re someone <em>willing</em> to mentor, but are <em>nervous</em> about the responsibility or time commitment, I encourage you to seek out these opportunities for “bite-sized” mentorship:</p>
+<ul>
+  <li>Partner with an existing initiative, even if it’s abroad (especially if it’s abroad). Do Q&amp;As, join meeting now and again, encourage people, learn from people.</li>
+  <li>Actively follow junior researchers on Twitter, so you can see their struggles and can advise, and also be cogniscent of where you can learn from them!</li>
+</ul>
+
+<p><em>Thank you for reading this and thank you to all my informal mentors! There are many of you and thank you for the time you’ve taken to respond to my requests. 
+Would love to hear other people’s strategies and techniques and ideas on how they think about the future of mentorship!</em></p>
+
+<p><em>DISCLAIMER: I have no background in psychology or sociology. I have not got any formal education in this or studies around this. I would REALLY LOVE for someone who does have research and formalized expertise to help refine or challenge these thoughts. This is just a place to capture my thoughts, observations and experiences and pose the questions</em></p>
+
+<p><em>Context: These observations are from observing ML communities in Africa. Perhaps other disciplines, or communities would not apply</em></p>
+
+    </div>
+
+    
+
+  </div>
+
+</article>
+
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <ul class="social">
+  <li><a href="https://github.com/jaderabbit" target="_blank"><i class="icon icon-github"></i></a></li>
+  <li><a href="https://twitter.com/alienelf" target="_blank"><i class="icon icon-twitter"></i></a></li>
+  <li><a href="https://www.linkedin.com/in/jade-abbott-5b3a692a/" target="_blank"><i class="icon icon-linkedin"></i></a></li>
+</ul>
+    <p class="txt-medium-gray">
+      <small>&copy;2020 All rights reserved. Made with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and ♥</small>
+    </p>
+  </div>
+</footer>
+
+
+</body>
+</html>
