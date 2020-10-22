@@ -21,18 +21,18 @@ sass:
 title: Jade Abbott
 description: "Jade Abbott, NLP Engineer by day, ML Engineer by Night"
 keywords: "Jade Abbott, NLP, African Languages, Masakhane"
-url: http://jabbott.io
+url: https://jabbott.io
 baseurl: ""
 
 google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
+repo: https://github.com/jaderabbit/jaderabbit.github.io
 disqus_shortname: "nandothemes"
 disqus_site_shortname: "nandothemes"
 
 # Author settings
 author:
   name: Jade Abbott
-  job: NLP Engineer by Night, NLP Research by Night
+  job: NLP Engineer by Day, NLP Research by Night
   bio: "Putting ML into Prod @ Retro Rabbit. NLP for African Languages @ Masakhane. Bassist @ FMFY"
   thumb: /images/me.jpg
   email: jade.zoe.abbott@gmail.com
