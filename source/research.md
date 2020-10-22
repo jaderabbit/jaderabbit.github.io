@@ -6,7 +6,7 @@ permalink: /research/
 
 I've had quite a back-and-forth journey with research, trying to learn what excites me most. Here are a couple of my assorted published works. 
 
-
+- [Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages - EMNLP Findings 2020](https://arxiv.org/abs/2010.02353)
 - [Masakhane - Machine Translation for Africa - ICLR AfricaNLP Workshop 2020](https://arxiv.org/abs/2003.11529)
 - [AI4D - African Dataset Challenge - WiNLP 2020](https://www.aclweb.org/anthology/2020.winlp-1.18/)
 - [A Focus on NMT for African Languages - Unpublished](https://arxiv.org/abs/1906.05685)
