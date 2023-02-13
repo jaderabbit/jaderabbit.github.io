@@ -19,7 +19,7 @@ sass:
 
 # SEO settings
 title: Jade Abbott
-description: "Jade Abbott, NLP Engineer by day, ML Engineer by Night"
+description: "Jade Abbott, Founder, NLP Researcher, Speaker"
 keywords: "Jade Abbott, NLP, African Languages, Masakhane"
 url: https://jabbott.io
 baseurl: ""
@@ -32,8 +32,8 @@ disqus_site_shortname: "nandothemes"
 # Author settings
 author:
   name: Jade Abbott
-  job: NLP Engineer by Day, NLP Research by Night
-  bio: "Putting ML into Prod @ Retro Rabbit. NLP for African Languages @ Masakhane. Bassist @ FMFY"
+  job: Founder, NLP Researcher, Speaker
+  bio: "Director @ Lelapa AI. NLP for African Languages @ Masakhane. Bassist @ FMFY"
   thumb: /images/me.jpg
   email: jade.zoe.abbott@gmail.com
   url: https://jabbott.io
