@@ -6,9 +6,13 @@ permalink: /about/
 
 My name is Jade. 
 
-By day, I am an NLP engineer at [Retro Rabbit](retrorabbit.co.za) where I build all kinds of things. I was once dubbed as “Full-stack ML” because I’ve worked at every end of putting a ML model into production - from wrangling the data, to training the models, to deploying and scaling in production, to adding results to the database, and repeating the cycle over and over - with a focus on data ops and devops.
+I co-founded [Lelapa.AI](lelapa.ai) where we're building AI for Africa, by Africans - bringing resource-efficient AI from Africa to the world. 
 
-By night, I lead [Masakhane](masakhane.io), a grassroots open research movement for NLP for African languages. I am extremely passionate about changing the way Africa and Africans are currently percieved by the Western world. I wish to empower the world by empowering Africans from all walks of life to participate in the global conversation.
+I co-founded [Masakhane](masakhane.io), the award-winning grassroots open research movement for NLP for African languages. 
+
+I am extremely passionate about changing the way Africa and Africans are currently percieved by the Western world. I wish to empower the world by empowering Africans from all walks of life to participate in the global conversation.
+
+I have 10 years of experience in the technology field. I was once dubbed as “Full-stack ML” because I’ve worked at every end of putting a ML model into production.
 
 In-between, I [tweet](twitter.com/alienelf) extensively and angrily.
 
