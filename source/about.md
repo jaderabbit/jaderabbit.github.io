@@ -4,12 +4,18 @@ title: whoami();
 permalink: /about/
 ---
 
-My name is Jade. 
+My name is Jade.
 
-By day, I am an NLP engineer at [Retro Rabbit](retrorabbit.co.za) where I build all kinds of things. I was once dubbed as “Full-stack ML” because I’ve worked at every end of putting a ML model into production - from wrangling the data, to training the models, to deploying and scaling in production, to adding results to the database, and repeating the cycle over and over - with a focus on data ops and devops.
+I'm Co-founder & CTO of [Lelapa AI](https://lelapa.ai), where we build resource-efficient language AI for the real world — bringing language AI from Africa to the world under the constraints that actually matter: limited compute, fragmented data, and diverse linguistic contexts.
 
-By night, I lead [Masakhane](masakhane.io), a grassroots open research movement for NLP for African languages. I am extremely passionate about changing the way Africa and Africans are currently percieved by the Western world. I wish to empower the world by empowering Africans from all walks of life to participate in the global conversation.
+I co-founded [Masakhane](https://masakhane.io), the award-winning grassroots open research movement for NLP for African languages.
 
-In-between, I [tweet](twitter.com/alienelf) extensively and angrily.
+I am passionate about creating an ubuntu-punk future, as opposed to the cyberpunk one.
 
-And sometimes, I take that anger out [musically](fmfy.bandcamp.com) 
+I have over a decade of experience in technology — once dubbed "Full-stack ML" because I've worked at every end of putting an ML model into production, across banking, NGOs and startups.
+
+In 2024 I was named one of [MIT Technology Review's 35 Innovators Under 35](https://www.technologyreview.com/innovator/jade-abbott/), and a recipient of the Mail & Guardian 200 Young South Africans Award.
+
+In-between, I [tweet](https://twitter.com/alienelf) extensively and angrily.
+
+And sometimes, I take that anger out musically — bassist of [Pussy Heaven](https://www.youtube.com/@PussyHeaven) and [Follow Me Follow You](https://fmfy.bandcamp.com).
